@@ -1,0 +1,4 @@
+codimth_custom_rules_event_entity_predelete:
+  label: 'Before delete an entity'
+  deriver: '\Drupal\codimth_custom_rules_event\Plugin\RulesEvent\EntityPredeleteDeriver'
+  class: '\Drupal\rules\EventHandler\ConfigurableEventHandlerEntityBundle'

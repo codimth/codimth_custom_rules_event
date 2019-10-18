@@ -1,0 +1,7 @@
+name: Codimth Custom Rules Event
+description: Create a custom rules Event
+package: CodimTh
+type: module
+core: 8.x
+dependencies:
+  - rules
